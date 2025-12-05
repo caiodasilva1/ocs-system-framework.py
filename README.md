@@ -1,1 +1,1 @@
-#  **Interactive Demo & Code:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caiodasilva1/tau-veto-llm-safety/blob/main/Parrot_experiment.ipynb)
+#  **Interactive Demo & Code:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](](https://colab.research.google.com/drive/1aDoALuGF1dXO2xqKVmKW6gzpIX_xDpjM))
