@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-**A framework for AI safety based on minimizing multi-dimensional ontological tension (τ), moving beyond external filters to an intrinsic "computational conscience."**
+**A framework for AI safety based on minimizing multi-dimensional ontological tension (τ), moving beyond external filters to an intrysic motivation or arquitecture per se."**
 
 This repository contains the prototype implementation and experiments for the **Ontological Control Systems (OCS)** paradigm. Our goal is to build AI systems that are intrinsically driven to minimize internal tension across epistemic, social, and physical dimensions—rather than solely maximizing external reward—forming a stable foundation for alignment.
 
